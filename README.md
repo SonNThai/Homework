@@ -8,9 +8,9 @@ def main():
 	
 	IntNumber = int(input("Guess a whole number between 1-10: "))
 	
-	if IntNumber == 4
+	if IntNumber == 4:
     	print ("You guessed the right number!")
-	else
+	else:
     	print ("Your guess was incorrect.")
   
 main()
