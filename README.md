@@ -1,5 +1,5 @@
 # Homework 4
-# ThaiSonHomework4.py
+
 # Python Code
 
 def main():
